@@ -11,7 +11,7 @@ programa {
    leia(nota2)
    escreva ("Informe a trceira nota: ")
    leia(nota3)
-   ecreva("Infome a quarta nota: ")
+   escreva("Infome a quarta nota: ")
    leia(nota4) 
    
    //processamento
